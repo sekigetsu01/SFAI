@@ -1,4 +1,4 @@
-# Sekigetsu's Host Setup
+# Sekigetsu's Fedora Setup
 
 ## Installation:
 
